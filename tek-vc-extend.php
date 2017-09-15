@@ -130,7 +130,6 @@ class VCExtendAddonClass
         $output .= '<div class="box-body"><a href="' .  $href["url"] . '"><h3 style="color: ' . $atts['title_color'] . '">' . $atts['title'] . '</h3></a>';
         $output .= $content . '</div></div>';
 
-
         // if($link !=""){
         // $output .='<a href="' .  $href["url"] . '">' .  $href["url"] .'</a>';
         // }
