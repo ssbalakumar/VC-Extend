@@ -1,0 +1,30 @@
+/*Extend VC For Tekardia*/
+.iconbox{
+padding:20px;
+}
+.box-img{
+width:80px;
+height: 80px;
+margin-bottom: 10px
+}
+.iconbox-1{
+padding: 20px 0px;
+}
+.iconbox-1 .box-img{
+float: left;
+width: 80px;
+margin-top: 2px;
+text-align: center;
+}
+.iconbox-1 .box-body{
+margin-left:100px
+}
+.iconbox-1 .box-body h3{
+font-size: 22px;
+}
+.iconbox-2{
+text-align: center;
+}
+.iconbox-2 .box-img{
+margin: 0 auto 10px auto;
+}
